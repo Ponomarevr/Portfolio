@@ -38,6 +38,8 @@
   
   ***Год окончания*** 2024
 
+  ![Изображение 1](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/315632/a198115dbd8bd7eabf90e3364aa0b8de.png)
+
 [Завершённые модули курса "Инженер по тестированию: с нуля до middle
 "](certificate.md)
   
